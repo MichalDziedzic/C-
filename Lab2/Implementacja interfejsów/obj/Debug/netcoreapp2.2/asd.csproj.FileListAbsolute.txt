@@ -1,0 +1,11 @@
+D:\Users\michal.dziedzic\Desktop\asd\bin\Debug\netcoreapp2.2\asd.deps.json
+D:\Users\michal.dziedzic\Desktop\asd\bin\Debug\netcoreapp2.2\asd.runtimeconfig.json
+D:\Users\michal.dziedzic\Desktop\asd\bin\Debug\netcoreapp2.2\asd.runtimeconfig.dev.json
+D:\Users\michal.dziedzic\Desktop\asd\bin\Debug\netcoreapp2.2\asd.dll
+D:\Users\michal.dziedzic\Desktop\asd\bin\Debug\netcoreapp2.2\asd.pdb
+D:\Users\michal.dziedzic\Desktop\asd\obj\Debug\netcoreapp2.2\asd.csprojAssemblyReference.cache
+D:\Users\michal.dziedzic\Desktop\asd\obj\Debug\netcoreapp2.2\asd.csproj.CoreCompileInputs.cache
+D:\Users\michal.dziedzic\Desktop\asd\obj\Debug\netcoreapp2.2\asd.AssemblyInfoInputs.cache
+D:\Users\michal.dziedzic\Desktop\asd\obj\Debug\netcoreapp2.2\asd.AssemblyInfo.cs
+D:\Users\michal.dziedzic\Desktop\asd\obj\Debug\netcoreapp2.2\asd.dll
+D:\Users\michal.dziedzic\Desktop\asd\obj\Debug\netcoreapp2.2\asd.pdb
